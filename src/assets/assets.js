@@ -179,7 +179,7 @@ export const doctors = [
     _id: "doc7",
     name: "Dr. Christopher Davis",
     image: doc7,
-    specialty: "General physician",
+    specialty: "General Physician",
     degree: "MBBS",
     experience: "4 Years",
     about:
@@ -269,7 +269,7 @@ export const doctors = [
     _id: "doc13",
     name: "Dr. Chloe Evans",
     image: doc13,
-    specialty: "General physician",
+    specialty: "General Physician",
     degree: "MBBS",
     experience: "4 Years",
     about:
